@@ -1,0 +1,10 @@
+body {
+  background: url(https://picsum.photos/1600/900);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+Form:focus {
+  outline: red;
+}
