@@ -59,4 +59,5 @@ movie-app (folder)
 - Css3
 - Bootstrap
 - Firebase
+- React Toastify
 - Responsive Design
